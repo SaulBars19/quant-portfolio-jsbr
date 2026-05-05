@@ -109,7 +109,7 @@ The TL;DR table above uses the Common Period analysis.
 ---
 
 ## Project Structure
-
+```
 quant_portfolio_jsbr/
 ├── README.md
 ├── requirements.txt
@@ -137,7 +137,7 @@ quant_portfolio_jsbr/
 │
 ├── strategy_ranking.py           # ranking on full operational period
 └── strategy_ranking_cp.py        # ranking on common period
-
+```
 ---
 
 ## How to Reproduce
